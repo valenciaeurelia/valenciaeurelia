@@ -1,4 +1,4 @@
-Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Valencia Eurelia
+Hi there!👋 I'm Valencia Eurelia
 ========================================================================================================================================
 An enthusiastic person that likes to explore and learn a lot of new things, particularly with Data Analytics, Graphic Design, and UI/UX design fields. 
 
