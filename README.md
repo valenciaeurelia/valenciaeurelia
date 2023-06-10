@@ -4,7 +4,6 @@ An enthusiastic person that likes to explore and learn a lot of new things, part
 
 ## About Me
 * 🌍   I'm based in Tangerang, Indonesia
-* 🧠   I'm learning Machine Learning
 * 🖥️   See my portfolio at [here](https://valenciaeurelia.com/)
 * 📫   You can contact me at [ciaeurelia15@gmail.com](mailto:ciaeurelia15@gmail.com)
 
