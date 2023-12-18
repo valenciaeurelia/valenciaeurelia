@@ -9,7 +9,7 @@ An enthusiastic person that likes to explore and learn a lot of new things, part
 
 ## Skills
 * **Tech Skills:** Python | Tableau | R Programming | SQL | Microsoft Office
-* **Digital Skills:** Figma | Adobe Illustrator | Procreate |Canva
+* **Digital Skills:** Figma | Adobe Illustrator | Procreate | Canva
 
 ## Socials
 * [Linkedin](www.linkedin.com/in/valenciaeurelia)
